@@ -1,6 +1,6 @@
 ## react-class-n-1-2-3-and-8
 
-react-###`class` 1,2,3 and 8
+react-`class` 1,2,3 and 8
 
 `class 1)` Introductory Class
 
