@@ -2,7 +2,7 @@
 
 react-`class` 1,2,3 and 8
 
-`class 1)` Introductory Class
+###`class 1)` Introductory Class
 
 `class 2,3)` discussion Some basic Js topic from js course of 'N'
 
